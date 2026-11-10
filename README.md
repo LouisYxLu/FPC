@@ -1,4 +1,5 @@
 # FPC
+Title: From Perception to Cognition: LLM-empowered Maritime Situational Awareness via AIS-UAV Cross-modal Fusion
 
 Our code will be made available upon acceptance of the paper.
 
